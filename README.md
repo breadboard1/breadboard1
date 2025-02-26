@@ -1,6 +1,6 @@
 # Hello world, I'm Emon, a CS enthusiast with a love for problem solving 👋
 🔹 Currently pursuing an undergraduate degree in Electrical and Electronic Engineering (EEE)<br>
-🔹 Solved 1000+ problems across various Online Judges (OJ)<br>
+🔹 Solved around 1000 problems across various Online Judges (OJ)<br>
 🔹 Unix/Linux lover — exploring the power of the command line<br>
 🔹 Worked on backend projects using Django<br>
 🔹 Practicing ethical hacking and constantly learning new security skills<br>
