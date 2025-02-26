@@ -28,15 +28,13 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 # My CP profiles:
-## 🏆 My Competitive Programming Profiles:
-
 <p>
   <a target="_blank" href="https://codeforces.com/profile/breadb0ard" style="text-decoration: none;">Codeforces</a> |
   <a target="_blank" href="https://leetcode.com/u/breadboard1/" style="text-decoration: none;">LeetCode</a> |
   <a target="_blank" href="https://www.codechef.com/users/breadb0ard" style="text-decoration: none;">CodeChef</a>
 </p>
 
-# 🚀 Where to Find Me:
+# 🚀 Social Links:
 <p><a target="_blank" href="https://twitter.com/_breadboard" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/md-emon-hossain-breadboard" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="undefinedbreadboard1" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
