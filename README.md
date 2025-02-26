@@ -36,6 +36,7 @@
   <a target="_blank" href="https://codeforces.com/profile/breadb0ard" style="text-decoration: none;">Codeforces</a> |
   <a target="_blank" href="https://leetcode.com/u/breadboard1/" style="text-decoration: none;">LeetCode</a> |
   <a target="_blank" href="https://www.codechef.com/users/breadb0ard" style="text-decoration: none;">CodeChef</a> |
+  <a target="_blank" href="https://www.hackerrank.com/profile/breadboard" style="text-decoration: none;">HackerRank</a> |
   <a target="_blank" href="https://tryhackme.com/p/ch3ckmate" style="text-decoration: none;">TryHackMe</a> |
   <a target="_blank" href="https://app.hackthebox.com/ch3ckmate101" style="text-decoration: none;">HackTheBox</a> |
   <a target="_blank" href="https://play.picoctf.org/users/ch3ckmate101" style="text-decoration: none;">PicoCTF</a>
