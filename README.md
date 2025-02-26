@@ -1,12 +1,12 @@
 # Hello world, I'm Emon, a CS enthusiast with a love for problem solving 👋
-🔹 Currently pursuing an undergraduate degree in Electrical and Electronic Engineering (EEE)
-🔹 Solved 1000+ problems across various Online Judges (OJ)
-🔹 Unix/Linux lover — exploring the power of the command line
-🔹 Worked on backend projects using Django
-🔹 Practicing ethical hacking and constantly learning new security skills
-🔹 Problem solver with a passion for challenges
-🔹 Active in CTFs (Capture the Flag) — always hunting for the next challenge
-🔹 Machine Learning/AI enthusiast — completed a Coursera course and eager to work in the field
+🔹 Currently pursuing an undergraduate degree in Electrical and Electronic Engineering (EEE)<br>
+🔹 Solved 1000+ problems across various Online Judges (OJ)<br>
+🔹 Unix/Linux lover — exploring the power of the command line<br>
+🔹 Worked on backend projects using Django<br>
+🔹 Practicing ethical hacking and constantly learning new security skills<br>
+🔹 Problem solver with a passion for challenges<br>
+🔹 Active in CTFs (Capture the Flag) — always hunting for the next challenge<br>
+🔹 Machine Learning/AI enthusiast — finished Machine Learning Specialization (by Andrew Ng) course on Coursera and eager to work in the field
 
 # 💻 Skills & Tools in My Arsenal:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -27,10 +27,15 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
+# My CP profiles:
+<p><a target="_blank" href="https://twitter.com/_breadboard" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+
 # 🚀 Where to Find Me:
 <p><a target="_blank" href="https://twitter.com/_breadboard" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/md-emon-hossain-breadboard" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="undefinedbreadboard1" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
+
+# GitHub Statistics:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=breadboard1&show_icons=true&locale=en" alt="breadboard1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=breadboard1&" alt="breadboard1" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=breadboard1&show_icons=true&locale=en&layout=compact" alt="breadboard1" /></p>
