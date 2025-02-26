@@ -28,10 +28,12 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 # My CP profiles:
+## 🏆 My Competitive Programming Profiles:
+
 <p>
-  <a target="_blank" href="https://codeforces.com/profile/breadb0ard">Codeforces</a> |
-  <a target="_blank" href="https://leetcode.com/u/breadboard1/">LeetCode</a> |
-  <a target="_blank" href="https://www.codechef.com/users/breadb0ard">CodeChef</a>
+  <a target="_blank" href="https://codeforces.com/profile/breadb0ard" style="text-decoration: none;">Codeforces</a> |
+  <a target="_blank" href="https://leetcode.com/u/breadboard1/" style="text-decoration: none;">LeetCode</a> |
+  <a target="_blank" href="https://www.codechef.com/users/breadb0ard" style="text-decoration: none;">CodeChef</a>
 </p>
 
 # 🚀 Where to Find Me:
