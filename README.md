@@ -6,7 +6,7 @@
 🔹 Practicing ethical hacking and constantly learning new security skills<br>
 🔹 Problem solver with a passion for challenges<br>
 🔹 Active in CTFs (Capture the Flag) — always hunting for the next challenge<br>
-🔹 Machine Learning/AI enthusiast — finished Machine Learning Specialization (by Andrew Ng) course on Coursera and eager to work in the field
+🔹 Machine Learning/AI enthusiast — finished Machine Learning Specialization by Andrew Ng
 
 # 💻 Skills & Tools in My Arsenal:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -28,7 +28,11 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 # My CP profiles:
-<p><a target="_blank" href="https://twitter.com/_breadboard" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<p>
+  <a target="_blank" href="https://codeforces.com/profile/breadb0ard">Codeforces</a> |
+  <a target="_blank" href="https://leetcode.com/u/breadboard1/">LeetCode</a> |
+  <a target="_blank" href="https://www.codechef.com/users/breadb0ard">CodeChef</a>
+</p>
 
 # 🚀 Where to Find Me:
 <p><a target="_blank" href="https://twitter.com/_breadboard" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
