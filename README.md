@@ -27,11 +27,18 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
-# My CP profiles:
+# My CP Profiles:
 <p>
   <a target="_blank" href="https://codeforces.com/profile/breadb0ard" style="text-decoration: none;">Codeforces</a> |
   <a target="_blank" href="https://leetcode.com/u/breadboard1/" style="text-decoration: none;">LeetCode</a> |
   <a target="_blank" href="https://www.codechef.com/users/breadb0ard" style="text-decoration: none;">CodeChef</a>
+</p>
+
+# My CTFs Profiles:
+<p>
+  <a target="_blank" href="https://tryhackme.com/p/ch3ckmate" style="text-decoration: none;">TryHackMe</a> |
+  <a target="_blank" href="https://app.hackthebox.com/ch3ckmate101" style="text-decoration: none;">HackTheBox</a> |
+  <a target="_blank" href="https://play.picoctf.org/users/ch3ckmate101" style="text-decoration: none;">PicoCTF</a>
 </p>
 
 # 🚀 Social Links:
